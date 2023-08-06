@@ -1,0 +1,28 @@
+2023-08-06 07:53:35.370293 - Initialized conversion of CBT839
+2023-08-06 07:53:35.536896 - Received CBT.V505.FILE839.PDS from FILE839.XMI 
+2023-08-06 07:53:35.539177 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE839.PDS, moved to PDS/$$$#DATE
+2023-08-06 07:53:35.540209 - Found $$$COPYR.txt (text/plain) in CBT.V505.FILE839.PDS, moved to PDS/$$$COPYR
+2023-08-06 07:53:35.541208 - Found $$$READM.txt (text/plain) in CBT.V505.FILE839.PDS, moved to PDS/$$$READM
+2023-08-06 07:53:35.542227 - Found $$AAAA.txt (text/plain) in CBT.V505.FILE839.PDS, moved to PDS/$$AAAA
+2023-08-06 07:53:35.543177 - Found $$CATPS.txt (text/plain) in CBT.V505.FILE839.PDS, moved to PDS/$$CATPS
+2023-08-06 07:53:35.544088 - Found $$DOC.txt (text/plain) in CBT.V505.FILE839.PDS, moved to PDS/$$DOC
+2023-08-06 07:53:35.544991 - Found $$TODO.txt (text/plain) in CBT.V505.FILE839.PDS, moved to PDS/$$TODO
+2023-08-06 07:53:35.546052 - Found $ASMJOB.jcl (text/plain) in CBT.V505.FILE839.PDS, moved to PDS/$ASMJOB
+2023-08-06 07:53:35.546940 - Found $ASMJOBZ.jcl (text/plain) in CBT.V505.FILE839.PDS, moved to PDS/$ASMJOBZ
+2023-08-06 07:53:35.547801 - Found $PROCS.jcl (text/plain) in CBT.V505.FILE839.PDS, moved to PDS/$PROCS
+2023-08-06 07:53:35.548657 - Found $PROCSZ.jcl (text/plain) in CBT.V505.FILE839.PDS, moved to PDS/$PROCSZ
+2023-08-06 07:53:35.549528 - Found @FILE839.txt (text/plain) in CBT.V505.FILE839.PDS, moved to PDS/@FILE839
+2023-08-06 07:53:35.550384 - Found DISPAUTH.txt (text/plain) in CBT.V505.FILE839.PDS, moved to PDS/DISPAUTH
+2023-08-06 07:53:35.551345 - Found EXECLONG.txt (text/plain) in CBT.V505.FILE839.PDS, moved to PDS/EXECLONG
+2023-08-06 07:53:35.552331 - Found MAKEXMIT.jcl (text/plain) in CBT.V505.FILE839.PDS, moved to PDS/MAKEXMIT
+2023-08-06 07:53:35.553244 - Found PARMCNTL.txt (text/plain) in CBT.V505.FILE839.PDS, moved to PDS/PARMCNTL
+2023-08-06 07:53:35.554213 - Found SAVEPARM.txt (text/plain) in CBT.V505.FILE839.PDS, moved to PDS/SAVEPARM
+2023-08-06 07:53:35.555128 - Found TCATDEF.jcl (text/plain) in CBT.V505.FILE839.PDS, moved to PDS/TCATDEF
+2023-08-06 07:53:35.555923 - Found TEST01.jcl (text/plain) in CBT.V505.FILE839.PDS, moved to PDS/TEST01
+2023-08-06 07:53:35.556698 - Found TEST02.jcl (text/plain) in CBT.V505.FILE839.PDS, moved to PDS/TEST02
+2023-08-06 07:53:35.557547 - Found TEST99.jcl (text/plain) in CBT.V505.FILE839.PDS, moved to PDS/TEST99
+2023-08-06 07:53:35.558480 - Found TFTP.jcl (text/plain) in CBT.V505.FILE839.PDS, moved to PDS/TFTP
+2023-08-06 07:53:35.559383 - Found TPDSCOPY.jcl (text/plain) in CBT.V505.FILE839.PDS, moved to PDS/TPDSCOPY
+2023-08-06 07:53:35.560333 - Found TPDSDELM.jcl (text/plain) in CBT.V505.FILE839.PDS, moved to PDS/TPDSDELM
+2023-08-06 07:53:35.561180 - Found TPDSREN.jcl (text/plain) in CBT.V505.FILE839.PDS, moved to PDS/TPDSREN
+2023-08-06 07:53:35.562120 - Found TSORT.jcl (text/plain) in CBT.V505.FILE839.PDS, moved to PDS/TSORT
